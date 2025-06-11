@@ -1,3 +1,3 @@
 # Material-Analysis-using-Python
 Material Analysis using Python PRACTICE PROJECTS EXAMPLES ETC
-USING LIBS LIKE PYMATGEN, COMPOSIPY ETC
+USING LIBS LIKE PYMATGEN, COMPOSIPY, ASE(how to use available) ETC
