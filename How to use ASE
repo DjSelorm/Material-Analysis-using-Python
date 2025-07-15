@@ -1,4 +1,4 @@
-Absolutely! ASE (Atomic Simulation Environment) is an incredibly powerful and versatile Python library for materials engineers and computational chemists.
+ ASE (Atomic Simulation Environment) is an incredibly powerful and versatile Python library for materials engineers and computational chemists.
 It allows you to set up, run, and analyze atomic simulations from various codes (like VASP, Quantum ESPRESSO, GPAW, etc.) in a unified Pythonic way.
 
 Let's break down how to get started with ASE for investigating material properties, specifically focusing on what a materials engineering student would find most useful.
